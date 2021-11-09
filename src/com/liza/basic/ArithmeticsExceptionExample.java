@@ -8,4 +8,6 @@ public class ArithmeticsExceptionExample {
             System.out.println("Number can not divided by 0");
         }
     }
+
+
 }
